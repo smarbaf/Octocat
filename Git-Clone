@@ -1,1 +1,1 @@
-Explain what git clone does, in your own words
+git clone takes a repository from remote to local and initializes all files
